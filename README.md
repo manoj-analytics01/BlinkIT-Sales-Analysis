@@ -47,7 +47,9 @@ The goal of this project is to:
 - Outlet Establishment Analysis
 - Interactive Filters & Slicers
 
----
+---## 📷 Dashboard Preview
+
+![BlinkIT Dashboard](Dashboard.png)
 
 ## 📂 Project Files
 
