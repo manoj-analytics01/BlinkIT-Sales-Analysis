@@ -1,4 +1,9 @@
 # 🛒 BlinkIT Sales Analysis Dashboard
+## 📷 Dashboard Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manoj-analytics01/BlinkIT-Sales-Analysis/main/dashboard.png.png" alt="BlinkIT Sales Analysis Dashboard" width="900">
+</p>
 
 ## 📌 Project Overview
 
